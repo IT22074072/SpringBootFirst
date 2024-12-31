@@ -1,4 +1,4 @@
-package org.example.springbootfirst;
+package org.example.springbootfirst.model;
 
 public interface Computer {
     void compile();
