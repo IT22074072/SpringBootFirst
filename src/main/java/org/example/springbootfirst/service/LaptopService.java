@@ -1,4 +1,4 @@
-package org.example.springbootfirst.model.service;
+package org.example.springbootfirst.service;
 
 import org.example.springbootfirst.model.Laptop;
 import org.springframework.beans.factory.annotation.Autowired;

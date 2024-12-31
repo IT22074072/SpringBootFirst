@@ -1,7 +1,7 @@
 package org.example.springbootfirst;
 
 import org.example.springbootfirst.model.Laptop;
-import org.example.springbootfirst.model.service.LaptopService;
+import org.example.springbootfirst.service.LaptopService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
